@@ -1,0 +1,45 @@
+#navbar{
+    display:flex;
+    height:90px;
+    background-color: gray;
+    border-radius: 2px; 
+  }
+  h3{
+    color:black;
+    margin-left: 20px;
+  }
+  a{
+    text-decoration: none;
+    color:black;
+  }
+  #search_input{
+    margin-top: 20px;
+    margin-left: 100px;
+    width:80%;
+    height:40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    font-size: 14px;
+  }
+  #sidebar{
+    width:200px;
+    height:300px;
+    background-color: gray;
+    
+  }
+
+  #sidebar h3:hover
+{
+    color: black;
+}
+  
+  #in,#ch,#us,#uk,#nz{
+    background-color: white;
+    height:25px;
+  }
+  #image{
+    width:50%;
+    height: 300px;
+  }
+
+
